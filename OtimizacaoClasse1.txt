@@ -1,0 +1,27 @@
+Exemplar	   Função Objetivo	Tempo de Excução (s)
+Rel. Transp - i62	      18463,38	180,25
+Rel. Transp - i93	      19513,20	180,22
+Rel. Transp - i100	18981,91	180,49
+Rel. Transp - i105	20352,09	180,28
+Rel. Transp - i110	20035,36	0,27
+Rel. Transp - i111	19713,43	180,22
+Rel. Transp - i112	19969,37	0,13
+Rel. Transp - i116	20236,63	180,29
+Rel. Transp - i118	19982,03	180,24
+Rel. Transp - i119	20676,84	0,13
+Rel. Transp - i131	20304,90	0,25
+Rel. Transp - i132	20393,58	180,31
+Rel. Transp - i137	23219,84	0,15
+Rel. Transp - i138	20848,31	87,87
+Rel. Transp - i143	20642,31	0,10
+Rel. Transp - i145	20079,04	4,53
+Rel. Transp - i149	22047,44	0,34
+Rel. Transp - i152	20997,16	180,37
+Rel. Transp - i164	22450,45	0,11
+Rel. Transp - i173	21970,30	0,41
+Rel. Transp - i188	21684,53	180,29
+Rel. Transp - i197	22818,28	0,12
+Rel. Transp - i198	22082,45	86,54
+Rel. Transp - i208	24174,45	0,23
+Rel. Transp - i215	22443,59	180,31
+Rel. Transp - i272	24063,99	180,44
